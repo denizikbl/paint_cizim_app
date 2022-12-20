@@ -1,0 +1,14 @@
+D:\visual studio codes\paint_cizim_app\paint_cizim_app\bin\Debug\paint_cizim_app.exe.config
+D:\visual studio codes\paint_cizim_app\paint_cizim_app\bin\Debug\paint_cizim_app.exe
+D:\visual studio codes\paint_cizim_app\paint_cizim_app\bin\Debug\paint_cizim_app.pdb
+D:\visual studio codes\paint_cizim_app\paint_cizim_app\obj\Debug\paint_cizim_app.csproj.AssemblyReference.cache
+D:\visual studio codes\paint_cizim_app\paint_cizim_app\obj\Debug\paint_cizim_app.csproj.SuggestedBindingRedirects.cache
+D:\visual studio codes\paint_cizim_app\paint_cizim_app\obj\Debug\paint_cizim_app.Form1.resources
+D:\visual studio codes\paint_cizim_app\paint_cizim_app\obj\Debug\paint_cizim_app.Properties.Resources.resources
+D:\visual studio codes\paint_cizim_app\paint_cizim_app\obj\Debug\paint_cizim_app.csproj.GenerateResource.cache
+D:\visual studio codes\paint_cizim_app\paint_cizim_app\obj\Debug\paint_cizim_app.csproj.CoreCompileInputs.cache
+D:\visual studio codes\paint_cizim_app\paint_cizim_app\obj\Debug\paint_cizim_app.exe
+D:\visual studio codes\paint_cizim_app\paint_cizim_app\obj\Debug\paint_cizim_app.pdb
+D:\visual studio codes\paint_cizim_app\paint_cizim_app\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio codes\paint_cizim_app\paint_cizim_app\bin\Debug\System.Numerics.Vectors.xml
+D:\visual studio codes\paint_cizim_app\paint_cizim_app\obj\Debug\paint_cizim_app.csproj.CopyComplete
